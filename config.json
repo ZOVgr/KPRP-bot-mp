@@ -1,32 +1,32 @@
 {
-  "guild_mp_id": 123456789012345678,
-  "log_channel_id": 987654321098765432,
+  "guild_mp_id": 1515784988476313641,
+  "log_channel_id": 1516376866158678116,
   "check_interval_hours": 12,
   "factions": {
     "ФСБ": {
       "role_mp": "ФСБ",
-      "guild_faction": 111111111111111111,
-      "role_faction": "сотрудник фсб"
+      "guild_faction": 1042087805922328688,
+      "role_faction": "Сотрудник ФСБ"
     },
     "ФСИН": {
       "role_mp": "ФСИН",
-      "guild_faction": 222222222222222222,
-      "role_faction": "сотрудник фсин"
+      "guild_faction": 1039888374707798066,
+      "role_faction": "Госслужащий ФСИН"
     },
     "МВД": {
       "role_mp": "МВД",
-      "guild_faction": 333333333333333333,
-      "role_faction": "сотрудник мвд"
+      "guild_faction": 1036294364911108167,
+      "role_faction": "Сотрудник МВД"
     },
     "МЗЧС": {
       "role_mp": "МЗЧС",
-      "guild_faction": 444444444444444444,
-      "role_faction": "сотрудник мзчс"
+      "guild_faction": 1041369955880407040,
+      "role_faction": "Сотрудник МЗЧС"
     },
     "Армия": {
       "role_mp": "Армия",
-      "guild_faction": 555555555555555555,
-      "role_faction": "сотрудник армии"
+      "guild_faction": 1036401436864544838,
+      "role_faction": "Армия РФ"
     }
   }
 }
